@@ -12,11 +12,8 @@ h1 {
 }
 
 #message-el {
-    font-style: italic;
-}
+    font-style: italic;}
 
-/* 3. Make sure that the two buttons have some space between
-each other when they are rendered out vertically */
 button {
     color: #016f32;
     width: 150px;
